@@ -1294,7 +1294,6 @@
     )
   )
 
-
   (junction (at 116.84 122.555) (diameter 0) (color 0 0 0 0)
     (uuid 009110da-fae2-454e-8387-1e8fd70409cb)
   )
@@ -1352,9 +1351,9 @@
   (no_connect (at 151.13 88.9) (uuid d12fa963-6d6a-4144-97fd-b5e112c10b91))
   (no_connect (at 151.13 124.46) (uuid da656b2e-e4c4-44c7-b28a-53f21ed84da8))
   (no_connect (at 235.585 61.595) (uuid e1a21f9b-f127-47ea-9131-236d708e7764))
-  (no_connect (at 235.585 48.26) (uuid e1a21f9b-f127-47ea-9131-236d708e7764))
-  (no_connect (at 235.585 74.295) (uuid e1a21f9b-f127-47ea-9131-236d708e7764))
-  (no_connect (at 235.585 86.36) (uuid e1a21f9b-f127-47ea-9131-236d708e7764))
+  (no_connect (at 235.585 48.26) (uuid e1a21f9b-f127-47ea-9131-236d708e7765))
+  (no_connect (at 235.585 74.295) (uuid e1a21f9b-f127-47ea-9131-236d708e7766))
+  (no_connect (at 235.585 86.36) (uuid e1a21f9b-f127-47ea-9131-236d708e7767))
   (no_connect (at 151.13 76.2) (uuid f9960147-0877-4502-ad52-336fc5c83a18))
   (no_connect (at 151.13 68.58) (uuid fb134e24-116f-4c1a-a910-69e228b2dca7))
 
@@ -1987,7 +1986,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 937939a7-3d48-498a-98b7-bb48d04ada01)
     (property "Reference" "R6" (id 0) (at 102.87 84.5525 90))
-    (property "Value" "72.5K" (id 1) (at 102.87 87.3276 90))
+    (property "Value" "82.5K" (id 1) (at 102.87 87.3276 90))
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 102.87 91.313 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2434,7 +2433,7 @@
       (reference "R5") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/937939a7-3d48-498a-98b7-bb48d04ada01"
-      (reference "R6") (unit 1) (value "72.5K") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R6") (unit 1) (value "82.5K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/0a7da8e8-4a29-4619-8c2a-45042f49f661"
       (reference "R7") (unit 1) (value "4.99K") (footprint "Resistor_SMD:R_0603_1608Metric")
