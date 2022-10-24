@@ -134,6 +134,24 @@
         "silk_over_copper|169545000|73025000|438bd43d-22e5-4570-965f-181e769703d4|43920ced-84b4-4a4b-a60a-be9a49dc99d6",
         "silk_over_copper|169545000|74295000|438bd43d-22e5-4570-965f-181e769703d4|0360067a-2c3d-45d0-b251-00df51b87e4a",
         "silk_over_copper|170251904|109432380|18836a5f-8c16-40b3-88b0-b8375d5ffb05|9729c22d-7850-44dc-a4d3-11fe0ba57f43",
+        "silk_over_copper|69765000|72850000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|bd9595a1-04f3-4fda-8f1b-e65ad874edd3",
+        "silk_over_copper|69765000|75390000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|173f6f06-e7d0-42ac-ab03-ce6b79b9eeee",
+        "silk_over_copper|69765000|77930000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|935f462d-8b1e-4005-9f1e-17f537ab1756",
+        "silk_over_copper|69765000|80470000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|89e83c2e-e90a-4a50-b278-880bac0cfb49",
+        "silk_over_copper|69765000|83010000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|721d1be9-236e-470b-ba69-f1cc6c43faf9",
+        "silk_over_copper|69765000|85550000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|a4f86a46-3bc8-4daa-9125-a63f297eb114",
+        "silk_over_copper|69815000|72850000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|ebd06df3-d52b-4cff-99a2-a771df6d3733",
+        "silk_over_copper|69815000|74470000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|be645d0f-8568-47a0-a152-e3ddd33563eb",
+        "silk_over_copper|69815000|75390000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|8c0807a7-765b-4fa5-baaa-e09a2b610e6b",
+        "silk_over_copper|69815000|77010000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|2e842263-c0ba-46fd-a760-6624d4c78278",
+        "silk_over_copper|69815000|77930000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|cb16d05e-318b-4e51-867b-70d791d75bea",
+        "silk_over_copper|69815000|79550000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|057af6bb-cf6f-4bfb-b0c0-2e92a2c09a47",
+        "silk_over_copper|69815000|80470000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|7b044939-8c4d-444f-b9e0-a15fcdeb5a86",
+        "silk_over_copper|69815000|82090000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|576c6616-e95d-4f1e-8ead-dea30fcdc8c2",
+        "silk_over_copper|69815000|83010000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|262f1ea9-0133-4b43-be36-456207ea857c",
+        "silk_over_copper|69815000|84630000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|c1c799a0-3c93-493a-9ad7-8a0561bc69ee",
+        "silk_over_copper|69815000|85550000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|ec5c2062-3a41-4636-8803-069e60a1641a",
+        "silk_over_copper|69815000|87170000|7b3fe852-ed60-4c9b-a0ba-aa3b330c7d71|81a15393-727e-448b-a777-b18773023d89",
         "silk_over_copper|88265000|123825000|c966a3fc-a634-452a-8d7e-b79cfd70abff|8211d9fc-8a9e-449d-8813-7eff044fe38a",
         "silk_over_copper|89535000|121920000|c966a3fc-a634-452a-8d7e-b79cfd70abff|6c3c00dd-b11d-4a28-be4e-3538a427e70f",
         "silk_over_copper|89836666|122135000|aeaf8219-317d-4316-876f-b15aae9b98fd|6c3c00dd-b11d-4a28-be4e-3538a427e70f",
@@ -150,7 +168,6 @@
         "silk_over_copper|99695000|121285000|abc0decb-50d4-4467-9412-db8d85ff63ff|faef8ca6-696e-43bc-943a-d65338af9242",
         "silk_overlap|132738809|133437380|588a4e6c-25ee-4d66-bfa9-7afa980b6e72|3e7688cb-2217-4fca-8ddb-38789ce71553",
         "silk_overlap|135255000|133350000|57978092-5797-4e4e-bb7e-97c5602c8ccd|b0f7113b-c2e4-40f9-ace1-ee067b0ccbc8",
-        "silk_overlap|184527499|130632500|ff8f70c3-81c6-4132-b043-b50677c6147e|59664360-4c27-4906-bd35-73674de5ece7",
         "silk_overlap|184655000|130940000|ff8f70c3-81c6-4132-b043-b50677c6147e|299516c0-ba74-4f90-9dcd-0e6630b0978a",
         "silk_overlap|184785000|130940000|95d6ea70-9654-4dcf-916c-685b15a512ad|299516c0-ba74-4f90-9dcd-0e6630b0978a",
         "silk_overlap|184915000|130940000|3e76225f-cc0c-40d3-a4cd-015689f26502|299516c0-ba74-4f90-9dcd-0e6630b0978a",
@@ -224,6 +241,7 @@
       },
       "track_widths": [
         0.0,
+        0.4,
         0.8,
         1.27,
         2.0
@@ -453,7 +471,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Sorcerer Rom Pack.kicad_pro",
+    "filename": "Sorcerer Modern Rom Pack.kicad_pro",
     "version": 1
   },
   "net_settings": {
