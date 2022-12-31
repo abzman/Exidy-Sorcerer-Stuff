@@ -17,6 +17,7 @@ ROMRD15, ROMRD15, A12
 
 Jumper 6
 --------
+(15, 14) (11, 12, 13) 5A
 (STANDARD)
 A13 A12 A11 - M M 1 1  1 x (2K blocks) [8K ROM-PAC, 2K ROMS] {5A}
 C000-C7FF - ROM 1
@@ -24,6 +25,7 @@ C800-CFFF - ROM 2
 D000-D7FF - ROM 3
 D800-DFFF - ROM 4
 
+(15, 14) (11, 12, 13) 5B
 (broken - overwrites E000-EFFF)
 A13 A12 A11 - M M 1 1  1 x (2K blocks) [8K ROM-PAC, 2K ROMS] {5B}
 D000-D7FF - ROM 3
@@ -31,6 +33,7 @@ D800-DFFF - ROM 4
 E000-E7FF - ROM 1 (or 2)
 E800-EFFF - ROM 2 (or 1)
 
+(15, 15) (12, 13, 14) 5A
 (Works but odd location)
 A14 A13 A12 - M 1 1 1  x x (4K blocks) [16K ROM-PAC, 4K ROMS] {5A}
 8000-8FFF - ROM 1
@@ -38,6 +41,7 @@ A14 A13 A12 - M 1 1 1  x x (4K blocks) [16K ROM-PAC, 4K ROMS] {5A}
 A000-AFFF - ROM 3
 B000-BFFF - ROM 4
 
+(15, 15) (12, 13, 14) 5B
 (STANDARD)
 A14 A13 A12 - M 1 1 1  x x (4K blocks) [16K ROM-PAC, 4K ROMS] {5B}
 A000-AFFF - ROM 3
@@ -45,6 +49,7 @@ B000-BFFF - ROM 4
 C000-CFFF - ROM 1 (or 2)
 D000-DFFF - ROM 2 (or 1)
 
+(14, 12) (10, 11, 13) 5A
 (STANDARD)
 A13 A11 A10 - M M 1 M  1 1 (1K blocks) [4K ROM-PAC, 1K ROMS] {5A}
 D000-D3FF - ROM 1
@@ -52,13 +57,15 @@ D400-D7FF - ROM 2
 D800-DBFF - ROM 3
 DC00-DFFF - ROM 4
 
-(broken - overwrites F000-FFFF)
+(14, 12) (10, 11, 13) 5B
+(broken - overwrites F000-F7FF)
 A13 A11 A10 - M M 1 M  1 1 (1K blocks) [4K ROM-PAC, 1K ROMS] {5B}
-F000-F3FF - ROM 3
-F400-F7FF - ROM 4
-F800-FBFF - ROM 1 (or 2)
-FC00-FFFF - ROM 2 (or 1)
+D800-DBFF - ROM 3
+DC00-DFFF - ROM 4
+F000-F3FF - ROM 1 (or 2)
+F400-F7FF - ROM 2 (or 1)
 
+(15, 12) (11, 13, 14) 5A
 (Works but odd location, not contiguous)
 A14 A13 A11 - M 1 1 M  1 x (2K Blocks) [8K ROM-PAC, 2K ROMS] {5A}
 9000-97FF - ROM 1
@@ -66,12 +73,13 @@ A14 A13 A11 - M 1 1 M  1 x (2K Blocks) [8K ROM-PAC, 2K ROMS] {5A}
 B000-B7FF - ROM 3
 B800-BFFF - ROM 4
 
+(15, 12) (11, 13, 14) 5B
 (Works but odd location, not contiguous)
 A14 A13 A11 - M 1 1 M  1 x (2K Blocks) [8K ROM-PAC, 2K ROMS] {5B}
 B000-B7FF - ROM 3
 B800-BFFF - ROM 4
 D000-D7FF - ROM 1 (or 2)
-DC00-DFFF - ROM 2 (or 1)
+D800-DFFF - ROM 2 (or 1)
 
 ------------------------------------]
 
